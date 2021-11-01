@@ -93,19 +93,19 @@ streamlit==1.0.0
 tenacity==8.0.1
 terminado==0.12.1
 testpath==0.5.0
-threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1633102299089/work
+threadpoolctl
 toml==0.10.2
 toolz==0.11.1
-tornado @ file:///D:/bld/tornado_1610094910414/work
+tornado
 traitlets==5.1.0
 typing-extensions==3.10.0.2
 tzdata==2021.2.post0
 tzlocal==3.0
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1632350318291/work
+urllib3
 validators==0.18.2
 watchdog==2.1.6
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
-win-inet-pton @ file:///D:/bld/win_inet_pton_1610147566412/work
-xyzservices @ file:///home/conda/feedstock_root/build_artifacts/xyzservices_1634660835723/work
+win-inet-pton
+xyzservices
